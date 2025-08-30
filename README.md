@@ -1,45 +1,76 @@
-# KreationsModpack
-Vanilla Adjacent modpack for fabric 1.21.1
+# Kreation Modpack
+### By KhaylaPaws
+Vanilla Adjacent modpack for fabric 1.21. There are 3 versions to download, Client, Server, and AIO.
 
-Modrinth link (in progress)
-Curseforge link (not started)
-Github link (check releases)
+IMPORTANT: there is a curseforge mod required: https://www.curseforge.com/minecraft/mc-mods/villagers-respawn
 
-Official dedicated server IP:
-This server is run by me, it runs the Server Version of my modpack, so you only need the client version. the AIO version will work without issues also, just slower.
+I do not have distribution rights, please download this one manually. I am sorry for inconvenience.
 
-Unnoficial servers: none yet :<
-These servers are not run by me, but they run my modpack so you can join with the client version. the aio will work without issues also, just slower.
+IMPORTANT: there is a modified modrinth mod: https://modrinth.com/mod/woodenarmor
 
-# Issues?
-If its a bug, especially related to crafting recipes, make an issue request here: 
+I have distribution rights, no need to download it seperatly. The only modification is to the lang/en_us file to rename oak_armor to wooden_armor. You can veiw the github [HERE] (https://github.com/jexline/exline-mods-issues/issues/55)
 
-The server and AIO versions are running my own datapack that changes and adds many recipes, so if one is broken I would not be suprised! Especially regarding the woodcutter custom recipes I added to add mod compatibility, there were SO MANY recipes I'm bound to have misstyped something and I haven't tested all of it. A github issue will bring it to my attention and fixed easiy and immediatly.
+IMPORTANT: there is a curseforge specific resourcepack: https://www.curseforge.com/minecraft/texture-packs/remove-crosshair
 
-Also check out the wiki for help!
+It is optional, but I don't have distribution rights so you have to download it manually, sorry. It just remove the crosshair, I highly recomend.
 
-## AIO Version
-Singleplayer version, has every mod and all configs in itself, so it can be used in offline worlds. Can still be used to join server with the server modpack without issues, there will just be massive amounts of unused redundancy that serves no purpose other than slow your client down. You can also use this AIO version to run a server but this is NOT recomended because all client sided mods will do nothing but slow down the server
+The core mods change the following:
+- Everyones favorite performance mods
+- Better structures (yungs, villages, etc)
+- Many HUD QOL mods (appleskin, tooltips txf, jade, emi, etc)
+- Sound mods (dynamic surroundings, sound physics remastered, etc)
+- Much needed multiplayer mods (lootr, trade, etc)
+- Animtion mods (first person model, just enough animations)
+- Visual blocks (furnace, juke box, crafting station)
+- Many misc gameplay mods (serilium)
+- Diagonal fences/walls
+- Travellers backpack
+- HT treechop
+- Accessories
+- Many gampleay changes
+- More (see my wiki for a full modlist! [WIKI](https://github.com/KhaylaPaws/KreationsModpack/blob/main/WIKI.md))
 
-Download here
-Veiw full mod list here
+# Versions
 
 ## Client Version
-Client version, has only client sided mods and mods required by both client and server. Be sure to join a server with the Server Version of the modpack or you will miss half the content! This is the intended way to use my modpack.
+Client version are lightweight stripped versions of the modpack, only containing mods required by both the server and client, and client sided mods. Use this version to join servers that have the server version. This is the recomended way to use the modpack, however playing offline will miss alot of features.
 
-Download here
-Veiw full mod list here
+[MODRINTH](https://modrinth.com/modpack/kreationmodpack/version/aQmghV7w)
 
 ## Server Version
-Server version, has only the server sided mods and mods required by both client and server. Be sure to join the server with the client or AIO versions. This is the intended way to use my modpack.
+Server version are lightweight stripped versions of the modpack, only containing mods required by both server and client, and server sided mods. Use this version when hosting a server, players with the AIO or Client modpack can join your server. This is the recomended way to use the modpack.
 
-Download here
-Veiw full mod list here
+Still working on a public release, sorry :<
 
-# WIKI
-In progress
+## AIO Version
+AIO Version is the entire modpack, every mod and config for both server and client is included. Use this version to play singplayer, join servers (client version is still better though) or host servers (server version is still better though) you will have to enable the datapack per world manually, check wiki for this.
 
-# Copyright, License, and Attribution
-In progress
+[MODRINTH](https://modrinth.com/modpack/kreationmodpack/version/1.21.1)
 
-(BECAUSE THE REPOSITORY IS UNFINISHED, THERE IS NO LICENSE YET, AKA UNLICENSE, YOU ARE NOT ALLOWED TO DO ANYTHING WITH THIS REPOSITORY YET. ALL RESTRICTIONS APPLY. COPYRIGHT KHAYLAPAWS 2025)
+# Servers
+Official servers by me: 
+- 127.0.0.1:25565
+
+Trusted Unofficial servers:
+- None yet
+
+# Issues?
+Make an issue over on my github!
+
+[GITHUB](https://github.com/KhaylaPaws/KreationsModpack/issues)
+
+Especially regarding recipe issues, my datapack changes 887 recipes so I may have misstyped something somewhere and haven't tested every recipe yet.
+
+Unsure how to get started in game? Check my wiki for this modpack! I changed a few core mechanics which can be confusing at first!
+
+Wiki LINK
+
+# Wiki
+There are many gameplay changes so be sure to check my wiki for info!
+
+[WIKI](https://github.com/KhaylaPaws/KreationsModpack/blob/main/WIKI.md)
+
+# Copyright, License, Attribution
+- All rights reserved
+- Copyrights belong to their own mod authors
+- Datapack made by me, which has open license, check it out here: [GITHUB](https://github.com/KhaylaPaws/KreationsModpack) [MODRINTH](https://modrinth.com/modpack/kreationmodpack)

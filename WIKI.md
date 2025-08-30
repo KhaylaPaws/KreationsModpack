@@ -10,7 +10,9 @@ Normally, after punching a tree you craft planks, then a crafting table. But you
 
 IMAGE OF STATION RECIPE
 
-You will need this crafting station, along with 3 more logs and some gravel to craft the new woodcutter block. this is how you will be crafting anything wooden from now on, including tools to progress
+You will need this crafting station, along with 3 more logs and some gravel to craft the new woodcutter block. this is how you will be crafting anything wooden from now on, including tools to progress. 
+
+please note, due to a limitation of the woodcutter, I cannot give more than one nonstackable item as an output. it costs 2 planks for one tool, so you would think that a log, which is worth 4 planks, would give 2 tools, i tried but the recipe became invalid. im sorry. just use the plank tool recipe, its cheaper, log is more expensive and i cannot fix it i am sorry
 
 IMAGE OF WOODCUTTER RECIPE
 IMAGE WOODCUTTER CRAFTING
