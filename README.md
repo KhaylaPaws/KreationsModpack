@@ -10,6 +10,8 @@ IMPORTANT: there is a modified modrinth mod: https://modrinth.com/mod/woodenarmo
 
 I have distribution rights, no need to download it seperatly. The only modification is to the lang/en_us file to rename oak_armor to wooden_armor. You can veiw the github [HERE] (https://github.com/jexline/exline-mods-issues/issues/55)
 
+IMPORTANT: PLEASE DISABLE ELYTRA ROLL IF YOU GET MOTION SICK. It is a client sided mod and optional! It has a cofig to disable it and you can even remove it safely as well
+
 The core mods change the following:
 - Everyones favorite performance mods
 - Better structures (yungs, villages, etc)
@@ -36,12 +38,12 @@ Client version are lightweight stripped versions of the modpack, only containing
 ## Server Version
 Server version are lightweight stripped versions of the modpack, only containing mods required by both server and client, and server sided mods. Use this version when hosting a server, players with the AIO or Client modpack can join your server. This is the recomended way to use the modpack.
 
-Still working on a public release
+Still working on a public release, you can check the wiki for the server modlist to make it manually or use the AIO to host servers for now
 
 ## AIO Version
 AIO Version is the entire modpack, every mod and config for both server and client is included. Use this version to play singplayer, join servers (client version is still better though) or host servers (server version is still better though) you will have to enable the datapack per world manually, check wiki for this.
 
-MODRINTH
+[MODRINTH] (https://modrinth.com/modpack/kreationmodpack/version/1.21.1)
 
 # Servers
 Official servers by me: 
@@ -58,8 +60,6 @@ Make an issue over on my github!
 Especially regarding recipe issues, my datapack changes 887 recipes so I may have misstyped something somewhere and haven't tested every recipe yet.
 
 Unsure how to get started in game? Check my wiki for this modpack! I changed a few core mechanics which can be confusing at first!
-
-Wiki LINK
 
 # Wiki
 There are many gameplay changes so be sure to check my wiki for info!
