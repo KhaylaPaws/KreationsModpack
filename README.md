@@ -10,7 +10,7 @@ IMPORTANT: there is a modified modrinth mod: https://modrinth.com/mod/woodenarmo
 
 I have distribution rights, no need to download it seperatly. The only modification is to the lang/en_us file to rename oak_armor to wooden_armor. You can veiw the github [HERE] (https://github.com/jexline/exline-mods-issues/issues/55)
 
-IMPORTANT: PLEASE DISABLE ELYTRA ROLL IF YOU GET MOTION SICK. It is a client sided mod and optional! It has a cofig to disable it and you can even remove it safely as well
+IMPORTANT: PLEASE DISABLE ELYTRA ROLL IF YOU GET MOTION SICK. It is a client sided mod and optional! It has a cofig to disable it and you can even remove it safely as well.
 
 The core mods change the following:
 - Everyones favorite performance mods
@@ -26,7 +26,7 @@ The core mods change the following:
 - HT treechop
 - Accessories
 - Many gampleay changes
-- More (see my wiki for a full modlist! [WIKI](https://github.com/KhaylaPaws/KreationsModpack?tab=readme-ov-file#wiki))
+- More (see my wiki for a full modlist! [WIKI](https://github.com/KhaylaPaws/KreationsModpack/blob/main/WIKI.md))
 
 # Versions
 
@@ -64,7 +64,7 @@ Unsure how to get started in game? Check my wiki for this modpack! I changed a f
 # Wiki
 There are many gameplay changes so be sure to check my wiki for info!
 
-[WIKI](https://github.com/KhaylaPaws/KreationsModpack?tab=readme-ov-file#wiki)
+[WIKI](https://github.com/KhaylaPaws/KreationsModpack/blob/main/WIKI.md)
 
 # Copyright, License, Attribution
 - All rights reserved
