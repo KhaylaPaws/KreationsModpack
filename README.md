@@ -1,14 +1,14 @@
 # Kreation Modpack
 ### By KhaylaPaws
-Vanilla Adjacent modpack for fabric 1.21. There are 3 versions to download, Client, Server, and AIO.
+Vanilla Adjacent modpack for fabric 1.21. There are 3 versions to download, Client, Server, and AIO. [MODRINTH](https://modrinth.com/modpack/kreationmodpack)
 
-**IMPORTANT: there is a curseforge mod required: https://www.curseforge.com/minecraft/mc-mods/villagers-respawn**
+IMPORTANT: there is a curseforge mod required: https://www.curseforge.com/minecraft/mc-mods/villagers-respawn
 
-**I do not have distribution rights, please download this one manually. I am sorry for inconvenience.**
+I do not have distribution rights, please download this one manually. I am sorry for inconvenience.
 
-**IMPORTANT: there is a modified modrinth mod: https://modrinth.com/mod/woodenarmor**
+IMPORTANT: there is a modified modrinth mod: https://modrinth.com/mod/woodenarmor
 
-**I have distribution rights, no need to download it seperatly. The only modification is to the lang/en_us file to rename oak_armor to wooden_armor. You can veiw the github [HERE] (https://github.com/jexline/exline-mods-issues/issues/55)**
+I have distribution rights, no need to download it seperatly. The only modification is to the lang/en_us file to rename oak_armor to wooden_armor. You can veiw the github [HERE] (https://github.com/jexline/exline-mods-issues/issues/55)
 
 The core mods change the following:
 - Everyones favorite performance mods
@@ -36,12 +36,12 @@ Client version are lightweight stripped versions of the modpack, only containing
 ## Server Version
 Server version are lightweight stripped versions of the modpack, only containing mods required by both server and client, and server sided mods. Use this version when hosting a server, players with the AIO or Client modpack can join your server. This is the recomended way to use the modpack.
 
-Still working on a public release, sorry :<
+Still working on a public release
 
 ## AIO Version
 AIO Version is the entire modpack, every mod and config for both server and client is included. Use this version to play singplayer, join servers (client version is still better though) or host servers (server version is still better though) you will have to enable the datapack per world manually, check wiki for this.
 
-[MODRINTH](https://modrinth.com/modpack/kreationmodpack/version/1.21.1)
+MODRINTH
 
 # Servers
 Official servers by me: 
@@ -69,4 +69,4 @@ There are many gameplay changes so be sure to check my wiki for info!
 # Copyright, License, Attribution
 - All rights reserved
 - Copyrights belong to their own mod authors
-- Datapack made by me, which has open license, check it out here: [GITHUB](https://github.com/KhaylaPaws/KreationsModpack) [MODRINTH](https://modrinth.com/modpack/kreationmodpack)
+- Datapack made by me, which has open license, check it out here: GITHUB MODRINTH
