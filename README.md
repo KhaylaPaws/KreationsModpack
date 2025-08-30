@@ -2,17 +2,13 @@
 ### By KhaylaPaws
 Vanilla Adjacent modpack for fabric 1.21. There are 3 versions to download, Client, Server, and AIO.
 
-IMPORTANT: there is a curseforge mod required: https://www.curseforge.com/minecraft/mc-mods/villagers-respawn
+**IMPORTANT: there is a curseforge mod required: https://www.curseforge.com/minecraft/mc-mods/villagers-respawn**
 
-I do not have distribution rights, please download this one manually. I am sorry for inconvenience.
+**I do not have distribution rights, please download this one manually. I am sorry for inconvenience.**
 
-IMPORTANT: there is a modified modrinth mod: https://modrinth.com/mod/woodenarmor
+**IMPORTANT: there is a modified modrinth mod: https://modrinth.com/mod/woodenarmor**
 
-I have distribution rights, no need to download it seperatly. The only modification is to the lang/en_us file to rename oak_armor to wooden_armor. You can veiw the github [HERE] (https://github.com/jexline/exline-mods-issues/issues/55)
-
-IMPORTANT: there is a curseforge specific resourcepack: https://www.curseforge.com/minecraft/texture-packs/remove-crosshair
-
-It is optional, but I don't have distribution rights so you have to download it manually, sorry. It just remove the crosshair, I highly recomend.
+**I have distribution rights, no need to download it seperatly. The only modification is to the lang/en_us file to rename oak_armor to wooden_armor. You can veiw the github [HERE] (https://github.com/jexline/exline-mods-issues/issues/55)**
 
 The core mods change the following:
 - Everyones favorite performance mods
