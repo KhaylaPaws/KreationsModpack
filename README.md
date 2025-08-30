@@ -26,7 +26,7 @@ The core mods change the following:
 - HT treechop
 - Accessories
 - Many gampleay changes
-- More (see my wiki for a full modlist! [WIKI](https://github.com/KhaylaPaws/KreationsModpack/blob/main/WIKI.md))
+- More (see my wiki for a full modlist! [WIKI](https://github.com/KhaylaPaws/KreationsModpack?tab=readme-ov-file#wiki))
 
 # Versions
 
@@ -64,7 +64,7 @@ Unsure how to get started in game? Check my wiki for this modpack! I changed a f
 # Wiki
 There are many gameplay changes so be sure to check my wiki for info!
 
-[WIKI](https://github.com/KhaylaPaws/KreationsModpack/blob/main/WIKI.md)
+[WIKI](https://github.com/KhaylaPaws/KreationsModpack?tab=readme-ov-file#wiki)
 
 # Copyright, License, Attribution
 - All rights reserved
